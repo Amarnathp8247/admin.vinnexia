@@ -1,0 +1,1 @@
+import{j as t,bk as i,e as x}from"./index-oaA_Ltxz.js";function p({options:r,placeholder:a,sx:l,value:n,onChange:s,width:o}){return t.jsx(i,{size:"small",sx:{width:o},disablePortal:!0,fullWidth:!0,value:n||null,onChange:(e,u)=>s(u||""),options:r,renderInput:e=>t.jsx(x,{...e,sx:{...l},placeholder:a,variant:"outlined"})})}export{p as S};
