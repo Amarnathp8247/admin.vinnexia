@@ -1,0 +1,1 @@
+import{o as a,aM as o,s as e}from"./index-Bjlp2vES.js";const n=t=>o(s=>s===""||s===null?void 0:s,t.optional()),r=a({poi:e().min(1,"Please select POI"),poa:e().min(1,"Please select POA"),status:e().min(1,"Please select status"),remark:n(e().min(1,"Please add remark").max(500,"Remark should not exceed 500 words"))});export{r as e};
