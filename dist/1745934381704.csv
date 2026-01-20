@@ -1,0 +1,11 @@
+name,email,mobile,country,status,source,description
+John Doe,john.doe@example.com,1234567890,USA,INTRESTED,REFERRAL,Interested in product A
+Jane Smith,jane.smith@example.com,2345678901,Canada,NOT-INTRESTED,ORGANIC,No budget currently
+Carlos Reyes,carlos.reyes@example.com,3456789012,Mexico,INTRESTED,REFERRAL,Follow up next week
+Amina Yusuf,amina.yusuf@example.com,4567890123,Nigeria,INTRESTED,ORGANIC,Asked for a demo
+Ken Tan,ken.tan@example.com,5678901234,Singapore,NOT-INTRESTED,REFERRAL,Switched to competitor
+Leila Haddad,leila.haddad@example.com,6789012345,UAE,INTRESTED,ORGANIC,Wants enterprise pricing
+Ivan Petrov,ivan.petrov@example.com,7890123456,Russia,NOT-INTRESTED,REFERRAL,Not the decision maker
+Chloe Dubois,chloe.dubois@example.com,8901234567,France,INTRESTED,ORGANIC,Looking for trial
+Ali Khan,ali.khan@example.com,9012345678,Pakistan,INTRESTED,REFERRAL,Requested case studies
+Emily Clark,emily.clark@example.com,1122334455,UK,NOT-INTRESTED,ORGANIC,Do not contact again
